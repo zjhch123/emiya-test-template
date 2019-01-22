@@ -1,0 +1,20 @@
+{
+  "scripts": {
+    "launch": "sh launch.sh",
+    "init": "selenium-standalone install && uirecorder init",
+    "record": "node scripts/record.js",
+    "replay": "node scripts/replay.js"
+  },
+  "dependencies": {
+    "inquirer": "^6.2.1",
+    "macaca": "^1.0.0",
+    "macaca-chrome": "^1.0.7",
+    "macaca-chromedriver": "^1.0.44",
+    "macaca-cli": "^2.1.10",
+    "macaca-wd": "^2.2.0",
+    "mocha": "^5.2.0",
+    "selenium-standalone": "^6.15.4",
+    "shelljs": "^0.8.3",
+    "uirecorder": "^2.5.46"
+  }
+}
