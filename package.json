@@ -1,4 +1,6 @@
 {
+  "name": "emiya-test-template",
+  "author": "zjhch123<416836508@qq.com>",
   "scripts": {
     "launch": "sh launch.sh",
     "init": "selenium-standalone install && uirecorder init",
