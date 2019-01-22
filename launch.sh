@@ -8,7 +8,6 @@ rm -rf sample
 rm -rf screenshots
 rm -rf uploadfiles
 rm -rf .editorconfig
-rm -rf .gitignore
 rm -rf hosts
 rm -rf run.bat
 rm -rf run.sh
